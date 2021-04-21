@@ -271,7 +271,7 @@ footer .mail:focus {
   padding-top: 200px;
   padding-bottom: 200px;
   background-image: linear-gradient( to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4) ),
-    url(./images/bg_hero.jpg) ;
+    url(../images/bg_hero.jpg) ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -333,16 +333,16 @@ footer .mail:focus {
   
   }
   .list-antenna::before{
-      background-image: url(./images/antenna.svg);
+      background-image: url(../images/antenna.svg);
   }
   .list-clock::before{
-    background-image: url(./images/clock.svg) ;
+    background-image: url(../images/clock.svg) ;
   }
   .list-diagram::before{
-    background-image: url(./images/diagram.svg) ;
+    background-image: url(../images/diagram.svg) ;
   }
   .list-astronaut::before{
-    background-image: url(./images/astronaut.svg) ;
+    background-image: url(../images/astronaut.svg) ;
   }
 .list-qualities-subtitle {
   font-size: 14px;
