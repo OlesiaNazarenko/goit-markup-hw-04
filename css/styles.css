@@ -338,16 +338,16 @@ footer .mail:focus {
   }*/
 
   .list-antenna::before{
-      background-image: url(/images/antenna.svg);
+      background-image: url(./images/antenna.svg);
   }
   .list-clock::before{
-    background-image: url(/images/clock.svg) ;
+    background-image: url(./images/clock.svg) ;
   }
   .list-diagram::before{
-    background-image: url(/images/diagram.svg) ;
+    background-image: url(./images/diagram.svg) ;
   }
   .list-astronaut::before{
-    background-image: url(/images/astronaut.svg) ;
+    background-image: url(./images/astronaut.svg) ;
   }
 .list-qualities-subtitle {
   font-size: 14px;
