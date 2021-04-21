@@ -271,7 +271,7 @@ footer .mail:focus {
   padding-top: 200px;
   padding-bottom: 200px;
   background-image: linear-gradient( to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4) ),
-    url(/images/bg_hero.jpg) ;
+    url(./images/bg_hero.jpg) ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -332,11 +332,6 @@ footer .mail:focus {
     margin-bottom:30px;
   
   }
-  /*.list-qualities-subtitle:hover::before{
-    background-color: var(--color2);
-    fill: var(--border-color2);
-  }*/
-
   .list-antenna::before{
       background-image: url(./images/antenna.svg);
   }
